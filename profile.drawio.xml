@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2023-01-08T09:06:48.882Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="20.8.3" etag="sapAk0_KUP-PW1ONOOhd" type="device">
+  <diagram id="_CR_SkSAN8Yh3IMFUQRP">
+    <mxGraphModel dx="808" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-150" width="210" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-142" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-128.png;opacity=50;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-134" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="&lt;font color=&quot;#b3b3b3&quot;&gt;instagram&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="161" y="-134" width="78" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;opacity=50;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-60" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="&lt;font color=&quot;#b3b3b3&quot;&gt;@Katy69&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=50;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="130" y="59" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="&lt;font color=&quot;#b3b3b3&quot;&gt;Kate Lingard&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=50;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="130" y="29" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#B3B3B3;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-61" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=default;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="179" y="-52" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=50;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="&lt;font color=&quot;#b3b3b3&quot;&gt;46&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="131" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="&lt;font color=&quot;#b3b3b3&quot;&gt;2.8k&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="&lt;font color=&quot;#b3b3b3&quot;&gt;526&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=50;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Posts" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="131" y="140" width="39" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Follower" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="187" y="140" width="49" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Following" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="252" y="141" width="49" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="132" y="200" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#B3B3B3;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Tile-128.png;rounded=0;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="133" y="201" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Feed" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;align=left;" vertex="1" parent="1">
+          <mxGeometry x="181" y="201" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="111" y="231" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="133" y="231" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="Explore" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;align=left;" vertex="1" parent="1">
+          <mxGeometry x="182" y="232" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#B3B3B3;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="233" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="111.5" y="262" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="133.5" y="262" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="Notifications" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;align=left;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="263" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-outline-vol-2/512/notifications-outline-128.png;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="261" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="110" y="294" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="132" y="294" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="Messages" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;align=left;" vertex="1" parent="1">
+          <mxGeometry x="181" y="295" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#B3B3B3;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="142" y="295" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="111" y="325" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="133" y="325" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="Direct" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;align=left;" vertex="1" parent="1">
+          <mxGeometry x="182" y="326" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-and-logos-12/32/Logo_telegram_Airplane_Air_plane_paper_airplane-33-128.png;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="142" y="326" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="110" y="354" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="132" y="354" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="Stats" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;align=left;" vertex="1" parent="1">
+          <mxGeometry x="181" y="355" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/stats-chart-128.png;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="142" y="354" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="107" y="385" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="129" y="385" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="Settings" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;align=left;" vertex="1" parent="1">
+          <mxGeometry x="178" y="386" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.settings_office_365;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="386" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/logout-128.png;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="450" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="111" y="449" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="133" y="449" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="Settings" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#B3B3B3;fillColor=default;opacity=50;align=left;" vertex="1" parent="1">
+          <mxGeometry x="182" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
