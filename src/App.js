@@ -9,6 +9,7 @@ import { FaHeart } from "react-icons/fa";
           Hello world! {data.Nav.name}
         </h1>
         <FaHeart />
+        <h2>test</h2>
       </div>
 
     );
